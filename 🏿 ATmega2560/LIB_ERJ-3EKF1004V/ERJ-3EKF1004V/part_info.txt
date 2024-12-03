@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-3EKF1004V
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=3.1
+Released=2023-03-07 10:42:05
+Downloaded=2024-10-19 09:11:33
+3D=Y
